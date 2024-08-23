@@ -1,6 +1,6 @@
 # Credit Card Financial Report Dashboard in Power BI
 
-Hello everyone, I'm Mahavir, we'll create a professional dashboard in Power BI, focusing on a Credit Card Financial Report.
+Hello everyone, I'm Sakshi, we'll create a professional dashboard in Power BI, focusing on a Credit Card Financial Report.
 The Data Base used for making this project is [Credit Card Financial Dashboard Using Power BI](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi).
 The dataset has been already uploaded here in this Git, and again the daat was also upadted and the same has beed uploded with the name Updated_Data_for_credit_card and Updated_Data_for_credit_card_users
 
